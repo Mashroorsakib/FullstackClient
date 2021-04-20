@@ -1,0 +1,21 @@
+
+.nav li{
+    display: inline;
+    margin-left: 50px;
+    color: black;
+    font-size: 30px;
+  }
+.nav a{
+    text-decoration: none;
+}
+  .Menu{
+      margin-left: 400px;
+      padding-top: 20px;
+  }
+  .first-Container{
+      padding-top: 25px;
+  }
+  .first-Container h1{
+      padding-left: 10px;
+      color: blue;
+  }

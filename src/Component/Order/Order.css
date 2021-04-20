@@ -1,0 +1,50 @@
+.ship-form{
+    margin: 30px 100px;
+}
+.ship-form input{
+    display: block;
+    margin-top: 30px;
+    padding: 5px;
+    border: 1px solid black;
+    border-radius: 10px;
+    width: 300px;
+}
+.option-container{
+    margin-top: 20px;
+    display: grid;
+    grid-template-columns: repeat(auto-fit,45rem);
+}
+.secondpart img{
+    width: 400px;
+    height: 400px;
+}
+.destination-container{
+    height: auto;
+    width: 200px;
+    padding-left: 10px;
+    margin-left: 10px;
+}
+.place-container{
+    background-color: chocolate;
+    width: 200px;
+    border-radius: 10px;
+    padding-left: 10px;
+    margin-left: 10px;
+}
+.destination-container img{
+    height: 50px;
+    width: 50px;
+}
+.details-Container{
+    box-shadow: rgba(.8, 0.6, 0, 0.1) 0px 4px 12px;
+    padding-bottom: 10px;
+    display: flex;
+}
+
+.details-Container img{
+    padding-left: 5px;
+}
+.details-Container p{
+    padding-left: 10px;
+    padding-top: 5px;
+}

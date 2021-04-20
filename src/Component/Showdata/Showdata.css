@@ -1,0 +1,12 @@
+.second-container{
+    display: flex;
+}
+
+.paragraph{
+    margin-left: 15px;
+}
+
+img{
+    height: 100px;
+    width: 100px;
+}
